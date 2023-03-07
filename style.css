@@ -17,7 +17,7 @@ body.dark-theme {
     display: inline-block;
     position: relative;
     left: 45%;
-    top: 45%;
+    margin-top: 10%;
     transition: all ease-in-out 0.3s;
     width: 100px;
     height: 45px;
